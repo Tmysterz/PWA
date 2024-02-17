@@ -43,11 +43,11 @@
 
   ## Deployed Application
 
-  [PWAchallenge]()
+  [PWAchallenge](https://pwachallenge.onrender.com/)
 
   ## Github 
 
-  [Github]()
+  [Github](https://github.com/Tmysterz/PWA)
 
   ## Screenshot
 
